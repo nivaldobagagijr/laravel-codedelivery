@@ -6,10 +6,10 @@
 	<h3>Produtos</h3>
 
 	<br>
-	<a href="{{ route('admin.products.create') }}" class="btn btn-default">Novo Produto</a>
+	<a href="{{ route('admin.products.create') }}" class="btn btn-primary btn-sm">Novo Produto</a>
 	<br>
 	<br>
-	<table class="table table-bordered">
+	<table class="table table-striped table-hover table-condensed">
 		<thead>
 		<tr>
 			<th>ID</th>

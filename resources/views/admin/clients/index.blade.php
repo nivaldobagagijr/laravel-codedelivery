@@ -9,7 +9,7 @@
 	<a href="{{ route('admin.clients.create') }}" class="btn btn-default">Novo Cliente</a>
 	<br>
 	<br>
-	<table class="table table-bordered">
+	<table class="table table-striped table-hover table-condensed">
 		<thead>
 		<tr>
 			<th>ID</th>
